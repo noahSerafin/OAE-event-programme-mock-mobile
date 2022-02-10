@@ -5,7 +5,7 @@ import App from "./App";
 import reportWebVitals from "./reportWebVitals";
 import { BrowserRouter as Router } from "react-router-dom";
 
-const baseURL = "/oae-event-programme";
+const baseURL = "/oae-event-programme-mock-mobile";
 
 ReactDOM.render(
   <React.StrictMode>

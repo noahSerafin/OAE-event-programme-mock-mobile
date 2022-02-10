@@ -1,0 +1,18 @@
+.setting-font-size {
+    display: flex;
+    flex-wrap: wrap;
+    border: none;
+    justify-content: center;
+    margin: 1.75rem 2.5rem 0.5rem;
+    padding: 0;
+    &__header {
+      font-weight: 700;
+    }
+    &__container {
+      padding: 0.75rem 0.5rem;
+    }
+    &__hr {
+      border: 1px solid var(--hr-color);
+      margin: 0 2.5rem;
+    }
+  }

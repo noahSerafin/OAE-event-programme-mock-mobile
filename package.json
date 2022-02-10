@@ -2,7 +2,7 @@
   "name": "oae-event-programme",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://nology-tech.github.io/oae-event-programme",
+  "homepage": "https://noahserafin.github.io/oae-event-pragramme-mock-mobile/",
   "dependencies": {
     "@testing-library/react": "^12.1.2",
     "@testing-library/user-event": "^12.1.10",
@@ -47,7 +47,7 @@
     "eslint-plugin-react": "^7.27.1",
     "gh-pages": "^3.2.3",
     "prettier": "^2.5.1",
-    "sass": "^1.45.0",
-    "react-scripts": "4.0.3"
+    "react-scripts": "4.0.3",
+    "sass": "^1.45.0"
   }
 }
