@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/OAE-event-programme-mock-mobile/static/css/main.07cf52fe.chunk.css",
-    "main.js": "/OAE-event-programme-mock-mobile/static/js/main.9d7b444d.chunk.js",
-    "main.js.map": "/OAE-event-programme-mock-mobile/static/js/main.9d7b444d.chunk.js.map",
+    "main.css": "/OAE-event-programme-mock-mobile/static/css/main.a58ef19d.chunk.css",
+    "main.js": "/OAE-event-programme-mock-mobile/static/js/main.2fb6f234.chunk.js",
+    "main.js.map": "/OAE-event-programme-mock-mobile/static/js/main.2fb6f234.chunk.js.map",
     "runtime-main.js": "/OAE-event-programme-mock-mobile/static/js/runtime-main.636b9a74.js",
     "runtime-main.js.map": "/OAE-event-programme-mock-mobile/static/js/runtime-main.636b9a74.js.map",
-    "static/js/2.505e84c1.chunk.js": "/OAE-event-programme-mock-mobile/static/js/2.505e84c1.chunk.js",
-    "static/js/2.505e84c1.chunk.js.map": "/OAE-event-programme-mock-mobile/static/js/2.505e84c1.chunk.js.map",
+    "static/js/2.f74ff2ed.chunk.js": "/OAE-event-programme-mock-mobile/static/js/2.f74ff2ed.chunk.js",
+    "static/js/2.f74ff2ed.chunk.js.map": "/OAE-event-programme-mock-mobile/static/js/2.f74ff2ed.chunk.js.map",
     "static/js/3.ec5c9f05.chunk.js": "/OAE-event-programme-mock-mobile/static/js/3.ec5c9f05.chunk.js",
     "static/js/3.ec5c9f05.chunk.js.map": "/OAE-event-programme-mock-mobile/static/js/3.ec5c9f05.chunk.js.map",
     "index.html": "/OAE-event-programme-mock-mobile/index.html",
-    "static/css/main.07cf52fe.chunk.css.map": "/OAE-event-programme-mock-mobile/static/css/main.07cf52fe.chunk.css.map",
-    "static/js/2.505e84c1.chunk.js.LICENSE.txt": "/OAE-event-programme-mock-mobile/static/js/2.505e84c1.chunk.js.LICENSE.txt",
+    "static/css/main.a58ef19d.chunk.css.map": "/OAE-event-programme-mock-mobile/static/css/main.a58ef19d.chunk.css.map",
+    "static/js/2.f74ff2ed.chunk.js.LICENSE.txt": "/OAE-event-programme-mock-mobile/static/js/2.f74ff2ed.chunk.js.LICENSE.txt",
     "static/media/ProtestImg.3de7bbd8.PNG": "/OAE-event-programme-mock-mobile/static/media/ProtestImg.3de7bbd8.PNG",
     "static/media/imageCropped.b1d8990f.png": "/OAE-event-programme-mock-mobile/static/media/imageCropped.b1d8990f.png",
-    "static/media/sad-note.f579cef9.svg": "/OAE-event-programme-mock-mobile/static/media/sad-note.f579cef9.svg"
+    "static/media/sad-note.d7ba6232.svg": "/OAE-event-programme-mock-mobile/static/media/sad-note.d7ba6232.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.636b9a74.js",
-    "static/js/2.505e84c1.chunk.js",
-    "static/css/main.07cf52fe.chunk.css",
-    "static/js/main.9d7b444d.chunk.js"
+    "static/js/2.f74ff2ed.chunk.js",
+    "static/css/main.a58ef19d.chunk.css",
+    "static/js/main.2fb6f234.chunk.js"
   ]
 }
