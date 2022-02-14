@@ -16,8 +16,13 @@
     }
   }
 
+  &__link{
+    text-decoration: none;
+  }
+
   &__icon {
     padding: 2rem;
+    width: 100%;
   }
 
   &__subheading {
