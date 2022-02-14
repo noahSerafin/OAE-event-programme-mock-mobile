@@ -2,7 +2,7 @@
   "name": "oae-event-programme",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://noahserafin.github.io/oae-event-pragramme-mock-mobile/",
+  "homepage": "https://noahserafin.github.io/OAE-event-pragramme-mock-mobile/",
   "dependencies": {
     "@testing-library/react": "^12.1.2",
     "@testing-library/user-event": "^12.1.10",
